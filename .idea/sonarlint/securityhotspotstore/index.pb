@@ -9,3 +9,15 @@ P
 0.idea/workSpace/ComputerAssistedInstruction.dart,1/e/1e6fc84ee34e3f2e49c30f6a47e2bd3008480c77
 X
 (.idea/workSpace/CreditCardValidator.dart,d/4/d4c2cc0db66160ba8f26577ac0af21d8aeaddfc5
+R
+".idea/workSpace/TabularOutput.dart,0/0/007b5964afc794d074131a7acbdf5c49ed96aa5e
+O
+.idea/workSpace/GasMileage.dart,3/e/3e2f6eb950ad21aa2fe4cf3023aaec1e700376f4
+V
+&.idea/workSpace/QuadraticEquation.dart,0/1/01bf7440f4d8f5e9dabe797aaf22adfa56b58002
+P
+ .idea/workSpace/SumOfDigits.dart,e/7/e7de072fb5186dfe96dca969e7587fdb6431d480
+R
+".idea/workSpace/PrintTriangle.dart,8/f/8faf8a35998d175dc89cda067453b58c22a3b267
+X
+(.idea/workSpace/BankApp/AccountTest.dart,b/5/b5ded6eac3c1cfd149fcfb0ca4d54988d5735593

@@ -17,7 +17,6 @@ int separateDigit(int number){
   int total = 0;
   for(int counter = 0; counter < newNumber.length; counter++){
     int digit = (number ~/ pow(10, counter)) % 10;
-
     total += digit;
   }
 
