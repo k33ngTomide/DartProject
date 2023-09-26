@@ -50,7 +50,7 @@ class Account{
 }
 
 void main(){
-  Account account = new Account("1234", "Muiliyu Sodiq", "3454");
+  Account account = new Account("0220190894", "Muiliyu Sodiq", "1244");
   print("The Name On this Account is : " + account.getAccountName);
 
   print("The Account Number is: " + account.getAccountNumber);
